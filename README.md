@@ -7,4 +7,4 @@
 # 7. Cretaed new repository on GitHub Named CIS2023-Linux-Final-Project
 # 8. Created README.md file
 # 9. Initalized git and tested push
-# 
+# 10. Uploaded counting code
